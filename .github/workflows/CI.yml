@@ -47,4 +47,4 @@ jobs:
 
       - name: Run notebooks
         run: |
-          python -m pytest . --nbval-lax -n auto --dist loadscope
+          python -m pytest . --nbval-lax
