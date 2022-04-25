@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: @weekly
+    - cron: "0 22 * * 1"
 
 concurrency:
   group: "${{ github.ref }}-${{ github.head_ref }}"
