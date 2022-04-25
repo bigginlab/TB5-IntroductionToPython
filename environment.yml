@@ -1,0 +1,6 @@
+name: tb5-env
+channels:
+  - conda-forge
+dependencies:
+  - nbval
+  - pytest
