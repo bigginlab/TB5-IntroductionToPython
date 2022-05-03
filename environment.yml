@@ -2,5 +2,6 @@ name: tb5-env
 channels:
   - conda-forge
 dependencies:
+  - notebook
   - nbval
   - pytest
