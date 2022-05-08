@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[https://colab.research.google.com/github/bigginlab/TB5-IntroductionToPython/blob/main/TB5-Introduction_to_Python_Programming.ipynb]
+
 # TB5-IntroductionToPython
 
 This repository contains the notebook contents for the TB5 Introduction to Python course.
