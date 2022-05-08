@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[https://colab.research.google.com/github/bigginlab/TB5-IntroductionToPython/blob/main/TB5-Introduction_to_Python_Programming.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bigginlab/TB5-IntroductionToPython/blob/main/TB5-Introduction_to_Python_Programming.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bigginlab/TB5-IntroductionToPython/HEAD)
 
 # TB5-IntroductionToPython
 
