@@ -7,7 +7,7 @@ This repository contains the notebook contents for the TB5 Introduction to Pytho
 
 # License
 
-These tutorial materials are licensed under a [CC NY-NC 4.0 license](README.md).
+These tutorial materials are licensed under a [CC BY-SA 4.0 license](LICENSE.md).
 
 # Acknowledgements
 
